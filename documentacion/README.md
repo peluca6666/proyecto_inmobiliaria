@@ -1,5 +1,7 @@
 Resumen de la API de Propiedades
 Esta API permite gestionar propiedades inmobiliarias. Con ella, podemos hacer operaciones como crear, leer, actualizar y eliminar propiedades, además de subir y obtener imágenes asociadas a esas propiedades.
+Conexión a Base de Datos
+La aplicación se puede conectar a una base de datos MySQL, lo que permite guardar y recuperar información de forma persistente, como propiedades, clientes y agentes.
 
 Rutas (Endpoints) disponibles
 
